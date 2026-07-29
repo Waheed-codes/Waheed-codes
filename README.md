@@ -33,7 +33,7 @@
       ╚══════════════════╝
 
    > SCANNING BIOSIGNATURE...
-   > MATCH FOUND: M.Waheed_codes
+   > MATCH FOUND: M.WAHEEDUDDIN
    > CLEARANCE LEVEL: DEV_04
 ```
 
@@ -166,7 +166,8 @@
 
 [![GitHub](https://img.shields.io/badge/GITHUB-connect-0d0221?style=for-the-badge&logo=github&logoColor=00ffff)](https://github.com/Waheed_codes)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-connect-0d0221?style=for-the-badge&logo=linkedin&logoColor=b300ff)](https://linkedin.com/in/Waheed_codes)
-[![Email](https://img.shields.io/badge/EMAIL-transmit-0d0221?style=for-the-badge&logo=gmail&logoColor=b300ff)](mailto:md.waheedudin27@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-visit-0d0221?style=for-the-badge&logo=vercel&logoColor=00ffff)](https://your-portfolio-url.com)
+[![Email](https://img.shields.io/badge/EMAIL-transmit-0d0221?style=for-the-badge&logo=gmail&logoColor=b300ff)](mailto:your.email@example.com)
 
 </div>
 
@@ -188,7 +189,7 @@
 
 </div>
 
-
+> ⚠️ Replace `Waheed_codes` above with your actual GitHub username to activate live stats.
 
 ---
 
