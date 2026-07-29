@@ -170,27 +170,6 @@
 
 </div>
 
----
-
-## `LIVE.STATS`
-```
-----------
-```
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Waheed-codes&show_icons=true&theme=radical&bg_color=0d0221&title_color=00ffff&icon_color=b300ff&text_color=c9c9ff&border_color=b300ff" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Waheed-codes&theme=radical&background=0d0221&stroke=b300ff&ring=00ffff&fire=ff00c8&currStreakLabel=00ffff" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waheed-codes&layout=compact&theme=radical&bg_color=0d0221&title_color=00ffff&text_color=c9c9ff&border_color=b300ff" width="45%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Waheed-codes&theme=react-dark&bg_color=0d0221&color=00ffff&line=b300ff&point=ff00c8&area=true&hide_border=true" width="90%" />
-
-</div>
-
----
-
-<div align="center">
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
