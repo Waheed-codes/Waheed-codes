@@ -165,9 +165,8 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GITHUB-connect-0d0221?style=for-the-badge&logo=github&logoColor=00ffff)](https://github.com/Waheed-codes)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-connect-0d0221?style=for-the-badge&logo=linkedin&logoColor=b300ff)](https://linkedin.com/in/Waheed_codes)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-visit-0d0221?style=for-the-badge&logo=vercel&logoColor=00ffff)](https://your-portfolio-url.com)
-[![Email](https://img.shields.io/badge/EMAIL-transmit-0d0221?style=for-the-badge&logo=gmail&logoColor=b300ff)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-connect-0d0221?style=for-the-badge&logo=linkedin&logoColor=b300ff)](https://www.linkedin.com/in/mohammed-waheeduddin-42778a276/)
+[![Email](https://img.shields.io/badge/EMAIL-transmit-0d0221?style=for-the-badge&logo=gmail&logoColor=b300ff)](md.waheeduddin27@gmail.com)
 
 </div>
 
