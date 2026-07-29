@@ -33,7 +33,7 @@
       ╚══════════════════╝
 
    > SCANNING BIOSIGNATURE...
-   > MATCH FOUND: M.WAHEEDUDDIN
+   > MATCH FOUND: M.Waheed_codes
    > CLEARANCE LEVEL: DEV_04
 ```
 
@@ -164,8 +164,8 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GITHUB-connect-0d0221?style=for-the-badge&logo=github&logoColor=00ffff)](https://github.com/WAHEEDUDDIN)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-connect-0d0221?style=for-the-badge&logo=linkedin&logoColor=b300ff)](https://linkedin.com/in/WAHEEDUDDIN)
+[![GitHub](https://img.shields.io/badge/GITHUB-connect-0d0221?style=for-the-badge&logo=github&logoColor=00ffff)](https://github.com/Waheed_codes)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-connect-0d0221?style=for-the-badge&logo=linkedin&logoColor=b300ff)](https://linkedin.com/in/Waheed_codes)
 [![Email](https://img.shields.io/badge/EMAIL-transmit-0d0221?style=for-the-badge&logo=gmail&logoColor=b300ff)](mailto:md.waheedudin27@gmail.com)
 
 </div>
@@ -179,12 +179,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=WAHEEDUDDIN&show_icons=true&theme=radical&bg_color=0d0221&title_color=00ffff&icon_color=b300ff&text_color=c9c9ff&border_color=b300ff" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=WAHEEDUDDIN&theme=radical&background=0d0221&stroke=b300ff&ring=00ffff&fire=ff00c8&currStreakLabel=00ffff" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Waheed_codes&show_icons=true&theme=radical&bg_color=0d0221&title_color=00ffff&icon_color=b300ff&text_color=c9c9ff&border_color=b300ff" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Waheed_codes&theme=radical&background=0d0221&stroke=b300ff&ring=00ffff&fire=ff00c8&currStreakLabel=00ffff" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WAHEEDUDDIN&layout=compact&theme=radical&bg_color=0d0221&title_color=00ffff&text_color=c9c9ff&border_color=b300ff" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waheed_codes&layout=compact&theme=radical&bg_color=0d0221&title_color=00ffff&text_color=c9c9ff&border_color=b300ff" width="45%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=WAHEEDUDDIN&theme=react-dark&bg_color=0d0221&color=00ffff&line=b300ff&point=ff00c8&area=true&hide_border=true" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Waheed_codes&theme=react-dark&bg_color=0d0221&color=00ffff&line=b300ff&point=ff00c8&area=true&hide_border=true" width="90%" />
 
 </div>
 
@@ -200,7 +200,7 @@
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-![Visitor Count](https://komarev.com/ghpvc/?username=WAHEEDUDDIN&label=SYSTEM+VISITS&color=b300ff&style=for-the-badge)
+![Visitor Count](https://komarev.com/ghpvc/?username=Waheed_codes&label=SYSTEM+VISITS&color=b300ff&style=for-the-badge)
 
 **`>> END OF TRANSMISSION >> CONNECTION SECURE >> 01001000 01001001`**
 
